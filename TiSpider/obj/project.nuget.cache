@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbLrucszkYuowZw8rO8+4zErpmDLkhQ6aHB/27g/g16DOikPLeqCRnzwi9oWZuzlYhlbqs9Zftjly7QY9onLwg==",
+  "success": true,
+  "projectFilePath": "/Users/xinchangli/Code/WK/WkSpider/TiSpider/TiSpider.csproj",
+  "expectedPackageFiles": [
+    "/Users/xinchangli/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/xinchangli/.nuget/packages/microsoft.playwright/1.21.0/microsoft.playwright.1.21.0.nupkg.sha512",
+    "/Users/xinchangli/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/xinchangli/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/xinchangli/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/xinchangli/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/xinchangli/.nuget/packages/system.text.json/6.0.1/system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
